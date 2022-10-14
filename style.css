@@ -1,0 +1,20 @@
+.btn{   
+    margin:auto;
+    display: block;  
+    width: 150px;
+    padding: 25px 0;
+    font-size: 25px;    
+    color: aquamarine;
+    background-color: #27a01a;     
+}
+
+.content {   
+    margin: 0; 
+    padding: 40px;
+    font-size: 40px;  
+    color: rgb(35, 230, 70);  
+}
+   
+.hidden {
+    display: none;
+}  
