@@ -1,5 +1,4 @@
-(() => {
-  
+(() => {  
   const todo = document.getElementById('todo');
   const inputFirst =document.getElementById('inputFirst');
   const inputSecond =document.getElementById('inputSecond');
