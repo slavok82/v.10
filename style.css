@@ -1,20 +1,31 @@
 .btn{   
     margin:auto;
     display: block;  
-    width: 150px;
-    padding: 25px 0;
-    font-size: 25px;    
-    color: aquamarine;
-    background-color: #27a01a;     
+    width: 80px;
+    padding: 20px 0;
+    background: #bacff1;
+    border: 1px solid #BDBDBD;
+    border-radius: 10px;      
 }
 
-.content {   
-    margin: 0; 
-    padding: 40px;
-    font-size: 40px;  
-    color: rgb(35, 230, 70);  
+.inputFirst{
+    display: block;
+    margin: 20px auto;
+    width: 345px;
+    height: 54px;
+    background: #F2F2F2;
+    border: 1px solid #BDBDBD;
+    border-radius: 10px; 
+    font-size: 25px; 
 }
-   
-.hidden {
-    display: none;
-}  
+
+.inputSecond{
+    display: block;
+    margin: 20px auto;    
+    width: 345px;
+    height: 54px;
+    background: #F2F2F2;
+    border: 1px solid #BDBDBD;
+    border-radius: 10px; 
+    font-size: 25px;  
+}
